@@ -5,4 +5,3 @@ import App from './App';
 it('renders without crasshing', () => {
   shallow(<App />);
 });
-
